@@ -1,0 +1,10 @@
+﻿  Car.cpp
+  MonsterTruck.cpp
+  Radio_Car_Simulation.cpp
+  Room.cpp
+  Simulation.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 215 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Radio_Car_Simulation.vcxproj -> C:\Users\rami\OneDrive - Curt Nicolin Gymnasiet AB\Skrivbordet\Radio_Car_Simulation\x64\Release\Radio_Car_Simulation.exe
